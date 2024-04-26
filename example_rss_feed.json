@@ -1,0 +1,58 @@
+{
+    "feeds": [
+        {
+            "channel": {
+                "source": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+                "link": "https://www.nytimes.com/section/world",
+                "title": "NYT > World News",
+                "description": "NYT > World News",
+                "catId": null,
+                "id": 1
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "title": "In Gaza, Witnesses Describe Fear and Deprivation at Besieged Al-Shifa Hospital",
+                    "description": "Several patients have died as a result of the Israeli military assault, the Gazan authorities say. Israel says the operation is targeting Hamas leaders.",
+                    "link": "https://www.nytimes.com/2024/03/24/world/middleeast/al-shifa-hospital-gaza-israel.html",
+                    "pubDate": "2024-03-25, 03:01:44",
+                    "isRead": false,
+                    "isVisible": true,
+                    "chanId": 1
+                },
+                {
+                    "id": 2,
+                    "title": "Sugar in India, Fueled by Child Marriage and Hysterectomies",
+                    "description": "An investigation into the sugar-cane industry in the Indian state of Maharashtra found workers ensnared by debt and pushed into child marriages and unnecessary hysterectomies.",
+                    "link": "https://www.nytimes.com/2024/03/24/world/europe/india-sugar-cane-fields-child-labor-hysterectomies.html",
+                    "pubDate": "2024-03-24, 06:30:30",
+                    "isRead": false,
+                    "isVisible": true,
+                    "chanId": 1
+                }
+            ]
+        },
+        {
+            "channel": {
+                "source": "https://feeds.bbci.co.uk/news/world/rss.xml",
+                "link": "https://www.bbc.co.uk/news/world",
+                "title": "BBC News",
+                "description": "BBC News - World",
+                "catId": null,
+                "id": 2
+            },
+            "items": [
+                {
+                    "id": 102,
+                    "title": "UN Security Council resolution calls for Gaza ceasefire",
+                    "description": "It was passed after the US refrained from vetoing the measure in a shift from its previous position.",
+                    "link": "https://www.bbc.co.uk/news/world-middle-east-68658415",
+                    "pubDate": "2024-03-25, 03:26:02",
+                    "isRead": false,
+                    "isVisible": true,
+                    "chanId": 2
+                }
+            ]
+        }
+    ]
+}
